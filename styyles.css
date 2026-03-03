@@ -286,10 +286,25 @@ h2{
     -ms-user-select: none;
     user-select: none; 
 }
+
+.norm_text{
+    font-family: "Audiowide";
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+    font-size: large;
+    text-decoration: none;
+}
+
 footer{
     width: 100%;
     padding: 10px 0px 10px 0px;
     align-items: center;
     justify-content: center;
     display: flex;
+}
+
+.txt_container{
+    padding: 2%;
+    text-align: left;
 }
